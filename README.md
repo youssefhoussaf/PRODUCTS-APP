@@ -14,11 +14,11 @@ Before you get started, make sure you have the following software installed on y
 
 1. Clone this repository to your local machine:
 ```console
-git clone https://github.com/youssefhoussaf/YOUCAN_CODING_CHALLENGE.git
+git clone https://github.com/youssefhoussaf/PRODUCTS-APP.git
 ```
 2. Navigate to the project directory:
 ```console
-cd YOUCAN_CODING_CHALLENGE
+cd PRODUCTS-APP
 ```
 3. Install the required dependencies:
 ```console
